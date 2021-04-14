@@ -1,6 +1,6 @@
 # Housing_price_estimator
 In this project, a simple and efficient model for predicting housing prices is done, going through the following steps:
-- Exploratory data analysis: Looking at the target value (Sale price) and finding the more important features.
+- Exploratory data analysis: Looking at the target value (Sale price) and finding the most important features.
 - Feature Engineering: treating missing data, outliers, generating new features, encoding data.
 - Simple and efficient Model to predict prices: Reaching high accuracy, low RMSE, avoiding overfitting, and keeping it simple (only one parameter tuning).
 
